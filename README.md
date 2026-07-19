@@ -1,4 +1,4 @@
-# 🍽️ ¿Qué comemos hoy? - Proyecto Despensa & Recetario Reactivo
+# 🍽️ ¿Qué comemos hoy? - Despensa & Recetario
 
 Este proyecto es una aplicación web responsiva (Single Page Application) autocontenida y optimizada para celulares. Su objetivo es ayudar al usuario a gestionar los ingredientes que tiene en casa y determinar de forma reactiva qué comidas puede preparar en tiempo real según la disponibilidad actual.
 
@@ -182,3 +182,12 @@ A continuación se detalla cómo estructurar una migración completa hacia un st
   * **Diseño Responsivo Intuitivo:** Creación simplificada de layouts fluidos usando prefijos como `md:grid-cols-2` o `lg:flex-row` directo en el HTML.
   * **Soporte nativo de Modo Oscuro:** Transición fluida de temas utilizando la clase modificadora `dark:`.
 
+---
+
+## 🔗 Visitar Sitio
+
+Puedes ver el proyecto en funcionamiento aquí: 👉 [QueComemos](https://jsoza1.github.io/que-comemos/)
+
+---
+
+Realizado por Jsoza
